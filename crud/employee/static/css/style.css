@@ -1,0 +1,28 @@
+body {
+    background: #cf974f;
+    height: 100%;
+    margin: 25px 0;
+    padding-left: 300px;
+}
+
+table,
+th,
+td {
+    border: 1px solid rgb(43, 58, 62);
+}
+
+tr:hover {
+    background-color: rgb(104, 104, 21);
+}
+
+th {
+    background-color: #65003b;
+    color: rgb(155, 127, 127);
+}
+
+button {
+    border-radius: 12px;
+    color: rgb(255, 111, 0);
+    background-color: #aa0497;
+    cursor: pointer;
+}
